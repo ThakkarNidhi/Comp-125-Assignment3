@@ -1,0 +1,15 @@
+/* custom css goes here */
+/**
+*filename: app.css
+*
+@author Nidhi Thakkar
+@date 10/06/2016
+*
+*student id:300872151
+*website :http://assignment2comp125.azurewebsites.net/
+@description This is the main java script file for the website.
+*/
+#log{width:450px;height:550px;float:right}
+#project1{float:right}
+#project2{float: right;width:250px;height:250px;margin-left:15px}
+#project3{float:right}
